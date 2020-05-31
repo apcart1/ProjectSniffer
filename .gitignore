@@ -9,4 +9,4 @@
 tools/ToolsVersion.txt
 
 # Directories excludes:
-/src/app/Board_F743/out/build/x64-Debug/*
+/src/app/BoardCore/out/build/x64-Debug/*
